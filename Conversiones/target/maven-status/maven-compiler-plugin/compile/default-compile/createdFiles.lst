@@ -1,0 +1,11 @@
+com\mycompany\conversiones\Conversiones.class
+com\mycompany\conversiones\DecimalAOctal.class
+com\mycompany\conversiones\HexadecimalADecimal.class
+com\mycompany\conversiones\OperacionesOctales.class
+com\mycompany\conversiones\OperacionesBinarias.class
+com\mycompany\conversiones\OperacionesHexadecimales.class
+com\mycompany\conversiones\DecimalAHexadecimal.class
+com\mycompany\conversiones\OperacionesDecimales.class
+com\mycompany\conversiones\BinarioDecimal.class
+com\mycompany\conversiones\DecimalBinario.class
+com\mycompany\conversiones\OctalADecimal.class
